@@ -440,7 +440,7 @@ msgid ""
 "Payment will be automatically matched with the oldest lines of this list (by"
 " maturity date). You can remove any line you dont want to be matched."
 msgstr ""
-"El pago será automaticamente igualado con la última línea de esta lista (por"
+"El pago será automaticamente igualado con las últimas líneas de esta lista (por"
 " fecha de vencimiento). Puedes remover cualquier línea que no quieras igualar."
 
 #. module: account_payment_pro
